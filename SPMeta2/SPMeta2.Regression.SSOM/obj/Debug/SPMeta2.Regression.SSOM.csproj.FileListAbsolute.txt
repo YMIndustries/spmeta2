@@ -90,3 +90,4 @@ c:\_spmeta_builds\40\SPMeta2.Regression.SSOM.XML
 c:\_spmeta_builds\45\SPMeta2.Regression.SSOM.dll
 c:\_spmeta_builds\45\SPMeta2.Regression.SSOM.pdb
 c:\_spmeta_builds\45\SPMeta2.Regression.SSOM.XML
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.SSOM\obj\Debug\SPMeta2.Regression.SSOM.csprojResolveAssemblyReference.cache

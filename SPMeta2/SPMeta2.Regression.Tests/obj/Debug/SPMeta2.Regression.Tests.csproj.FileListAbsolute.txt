@@ -142,3 +142,4 @@ c:\_spmeta_builds\45\SPMeta2.SSOM.dll
 c:\_spmeta_builds\45\SPMeta2.Regression.Tests.dll.config
 c:\_spmeta_builds\45\SPMeta2.Regression.Tests.dll
 c:\_spmeta_builds\45\SPMeta2.Regression.Tests.pdb
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Tests\obj\Debug\SPMeta2.Regression.Tests.csprojResolveAssemblyReference.cache

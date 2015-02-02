@@ -29,3 +29,11 @@ C:\Users\sp-dev\Source\Repos\spmeta2\SPMeta2\SPMeta2.Regression.Common\bin\Debug
 C:\Users\sp-dev\Source\Repos\spmeta2\SPMeta2\SPMeta2.Regression.Common\obj\Debug\SPMeta2.Regression.Common.csprojResolveAssemblyReference.cache
 C:\Users\sp-dev\Source\Repos\spmeta2\SPMeta2\SPMeta2.Regression.Common\obj\Debug\SPMeta2.Regression.Common.dll
 C:\Users\sp-dev\Source\Repos\spmeta2\SPMeta2\SPMeta2.Regression.Common\obj\Debug\SPMeta2.Regression.Common.pdb
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Common\bin\Debug\SPMeta2.Regression.Common.dll
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Common\bin\Debug\SPMeta2.Regression.Common.pdb
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Common\bin\Debug\SPMeta2.dll
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Common\bin\Debug\SPMeta2.pdb
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Common\bin\Debug\SPMeta2.xml
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Common\obj\Debug\SPMeta2.Regression.Common.csprojResolveAssemblyReference.cache
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Common\obj\Debug\SPMeta2.Regression.Common.dll
+C:\Users\sp-p-admin\Documents\GitHub\spmeta2\SPMeta2\SPMeta2.Regression.Common\obj\Debug\SPMeta2.Regression.Common.pdb

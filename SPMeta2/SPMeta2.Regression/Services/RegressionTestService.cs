@@ -592,7 +592,7 @@ namespace SPMeta2.Regression.Services
 
         protected void ResolveHook(EventHooks eventHooks, string start)
         {
-            TraceUtils.WithScope(traceScope =>
+            SPMeta2.Regression.Utils.TraceUtils.WithScope(traceScope =>
             {
                 if (eventHooks.OnProvisioning)
                     traceScope.WriteLine(string.Format("[INF]{0} [VALIDATED] - [OnProvisioning]", start));
